@@ -1,0 +1,47 @@
+ .logo{
+    height: 80px;
+    width: 70px;
+    padding-left: 10px;
+}
+
+h1{
+    padding-left: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    font-size: 100px;
+    font-weight: 100%;
+    
+}
+  
+
+h1{
+    padding-left: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    font-size: 100%;
+    font-weight: 100%;
+    
+}
+
+.pic{
+    height: 130%;
+   padding-left: 100%;
+   filter: drop-shadow(10px 10px 20px black);
+}   
+
+    @media screen and (max-width:320px) {   
+        .pic{
+         height: 130%;
+        padding-left: 100%;
+        filter: drop-shadow(10px 10px 20px black);
+    }   
+}
+p{
+    padding-left: 50px;
+}
+.but{
+    padding-left: 20px;
+}
+
+       
+    
